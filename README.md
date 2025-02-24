@@ -13,3 +13,6 @@
 - **React** 
 - **Next.js** 
 - **CSS** 
+
+
+## **https://github.com/PauloVomScheidt/dev-barber**
